@@ -1,0 +1,2 @@
+# Homework
+I read all the instructions. I learned the process from making a change to pull request, and new commands that I haven't used before. Then, I made [my own profile](https://github.com/momoiropuchoman).
